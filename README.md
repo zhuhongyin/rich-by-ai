@@ -6,3 +6,9 @@ Our goal: earn while you sleep. How to Get Rich With AI? Let us create together,
 
 IBM车库敏捷创业心法：先搞MVP,逐步迭代获得正反馈。小错不断，打错不犯。瞄准目标，迭代升级。
 开启财富之门的钥匙给你，制定计划，实践吧，加油💪！
+
+## 学习方法
+分享[学习方法](docs)
+
+## 实践
+分享[实战案例](demos)
