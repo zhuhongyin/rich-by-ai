@@ -5,4 +5,4 @@ Our goal: earn while you sleep. How to Get Rich With AI? Let us create together,
 巴菲特说如果你不能跳出一直拿时间还钱的境界，那么只能工作致死。
 
 IBM车库敏捷创业心法：先搞MVP,逐步迭代获得正反馈。小错不断，打错不犯。瞄准目标，迭代升级。
-开启财富之门的钥匙给你，接下来请指定计划，实践吧，加油💪！
+开启财富之门的钥匙给你，制定计划，实践吧，加油💪！
